@@ -1,6 +1,6 @@
 # hacks
 
-## Things to play around with
+## Things I want to play around with
 * Crawlers
 * ML Libraries
 * Cassandra
